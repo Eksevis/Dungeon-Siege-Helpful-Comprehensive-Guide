@@ -1,0 +1,5 @@
+WRITTEN AS:
+    screen_name = "example";
+    
+This bit of code allows you to enter in what an item will be called in game. More specifically, the name you see popup on screen when mousing 
+over it in the inventory or on the ground.
