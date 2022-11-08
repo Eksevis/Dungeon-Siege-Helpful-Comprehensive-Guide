@@ -1,0 +1,4 @@
+WRITTEN AS:
+    b allow_modifiers = true/false;
+    
+This bit of code tells if the item has a chance to be spawned as a magic, rare or unique variant.
